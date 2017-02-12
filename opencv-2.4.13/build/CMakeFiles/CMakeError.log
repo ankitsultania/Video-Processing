@@ -1,0 +1,204 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -D__CLASSIC_C__
+
+The output was:
+Permission denied
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_544f1/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_544f1.dir/build.make CMakeFiles/cmTC_544f1.dir/build
+Building CXX object CMakeFiles/cmTC_544f1.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app      -o CMakeFiles/cmTC_544f1.dir/testCXXCompiler.cxx.o -c /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+make[1]: /Applications/Xcode.app: Permission denied
+make[1]: *** [CMakeFiles/cmTC_544f1.dir/testCXXCompiler.cxx.o] Error 1
+make: *** [cmTC_544f1/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -D__CLASSIC_C__
+
+The output was:
+Permission denied
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9bf76/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9bf76.dir/build.make CMakeFiles/cmTC_9bf76.dir/build
+Building CXX object CMakeFiles/cmTC_9bf76.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app      -o CMakeFiles/cmTC_9bf76.dir/testCXXCompiler.cxx.o -c /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+make[1]: /Applications/Xcode.app: Permission denied
+make[1]: *** [CMakeFiles/cmTC_9bf76.dir/testCXXCompiler.cxx.o] Error 1
+make: *** [cmTC_9bf76/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: 
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -c
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app 
+Build flags: 
+Id flags: -D__CLASSIC_C__
+
+The output was:
+Permission denied
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3122c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_3122c.dir/build.make CMakeFiles/cmTC_3122c.dir/build
+Building CXX object CMakeFiles/cmTC_3122c.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app      -o CMakeFiles/cmTC_3122c.dir/testCXXCompiler.cxx.o -c /Users/Brain/Documents/javaworkspace/AdsProcessing/opencv-2.4.13/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+make[1]: /Applications/Xcode.app: Permission denied
+make[1]: *** [CMakeFiles/cmTC_3122c.dir/testCXXCompiler.cxx.o] Error 1
+make: *** [cmTC_3122c/fast] Error 2
+
+
